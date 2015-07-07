@@ -4,7 +4,7 @@ This protocol fills two plates with alternating rows of Protein in Buffer (usual
 Each well is 100 uL and dispensed using single pipetting in two 96 well plates. Ligand is then added to both 
 plates in a half log dilution starting from 20 uM using the D300. Results are gathered for two ligands 
 simultaneously: the ligand names are defined as variables in Momentum before the script is run.
-![alt text](img/bosutinibsetup.png "Title Text")
+![alt text](img/bosutinibsetup.png "bosutinibsetup.png")
 The plates then get shaken to mix, centrifuged and the fluorescence read. 
 
 ## Relavent Scripts
@@ -24,7 +24,7 @@ The plates then get shaken to mix, centrifuged and the fluorescence read.
  - Add appropriate amount to total 14 mL.
 - Run maintenance scripts on EVO.
 - Load Buffer, Protein, fresh D300 chip, DMSO, Ligand_1 (in this case Gefitinib), and Ligand_2 (in this case Erlotinib) according to the image below.
-<image>
+![alt text](img/EVO_deck.png "EVO_deck.png")
 - Place 2 clean 4ti_0223 (96 well, black clear bottom) plates in Stack 4 of cytomat.
 - Run Momentum Script. Make sure you have defined right ligand names as variables.
 - Infinite results file will be output to google drive.
