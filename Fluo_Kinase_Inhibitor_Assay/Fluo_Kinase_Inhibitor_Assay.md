@@ -30,15 +30,17 @@ The plates then get shaken to mix, centrifuged and the fluorescence read.
 - Infinite results file will be output to google drive.
 - Using assaytools run xml2png on output xml files. 
 
-## Kinase Buffer Instructions (if needed)
+### Kinase Buffer Instructions (if needed)
 
 To make 2L of 20 mM Tris 0.5 mM TCEP pH 8:
-### Materials:
+
+#### Materials:
 - TCEP: Biosynth C1818 Lot 0000009688 MW 286.65 g/mol
 - 1M Tris pH 8: Fisher Bioreagents BP1758-500 Lot 135742
 - 1L graduated cylinder
 - 2 x 2L glass beaker
-### Preparation:
+
+#### Preparation:
 - add 40 mL of 1M Tris pH 8 to graduated cylinder
 - add 286.65 mg TCEP to graduated cylinder [actual: 288.2 mg]
 - fill up cylinder to 2L with ddH2O (Purelab Ultra)
