@@ -27,7 +27,7 @@ The plates then get shaken to mix, centrifuged and the fluorescence read.
 ![alt text](img/EVO_deck.png "EVO_deck.png")
 - Place 2 clean 4ti_0223 (96 well, black clear bottom) plates in Stack 4 of cytomat (Nests 1 and 2).
 - Run Momentum Script. Make sure you have defined right ligand names as variables, also make sure to name the two infinite output files accordingly.
-- Infinite results file will be output to google drive.
+- Infinite results file will be output to Google Drive (choderalab/automation/protocols/infinite/results).
 - Using assaytools run xml2png on output xml files. 
 
 ### Kinase Buffer Instructions (if needed)
